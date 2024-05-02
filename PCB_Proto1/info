@@ -1,0 +1,55 @@
+{
+  "uuid": "47370d132d10bcccedb1e18d6c0b2559",
+  "path": "Offline/InputDevice_Proto1",
+  "name": "InputDevice_Proto1",
+  "content": "First iteration of the input device project",
+  "created_at": "2022-11-19 23:28:58",
+  "updated_at": "2022-11-20 01:44:02",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "c040f8f80201e00516a6bb5121b94ef1",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "6b1cc77156394465b08ca8f6acd4128d": 4
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "KAILH CHOC V2",
+          4,
+          "KAILH CHOC V2",
+          "U1,U2,U9,U10",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "Mouser",
+            "puuid": "856d15e138c149b68c5aff95b07147c4",
+            "uuid": "6b1cc77156394465b08ca8f6acd4128d"
+          }
+        ]
+      ],
+      "updateTime": 1668908642,
+      "createTime": 1668900538,
+      "histories": [],
+      "created_at": "2022-11-19 23:28:58",
+      "updated_at": "2022-11-20 01:44:02"
+    }
+  ],
+  "sort": [],
+  "title": "InputDevice_Proto1",
+  "foldername": "InputDevice_Proto1",
+  "schfilename": "InputDevice_Proto1.json",
+  "schfilemtime": 1668908644000
+}

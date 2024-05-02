@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "e9ab35b82b1a241f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b72aeb7b9d3968d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec340e1e0b03339c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keyboard power consumption.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9f1806d57de36f35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keeb v2.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "35d76025f733228f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brains.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "57f4e85514ae0db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multitouch.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9e42766fa61e4467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5daa4a54281b7503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hall Effect Key/Hall effect key.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e6338b7b714ea292",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Matrix_v5.png"
+              }
+            }
+          },
+          {
+            "id": "0247c86c8612eab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Designs.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3ce8734c66f30fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "777d5391e76e61f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4674124211fce58a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0186ed9902ce66c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b97eb58b40fdcb7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8beb6e6ea6c38923",
+    "type": "split",
+    "children": [
+      {
+        "id": "35853adcbbce63bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08b9fbd73fc62991",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Designs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d58b35253a4d1b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Designs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a0b3d4abe5afbd9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "17714f0e975b6746",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Designs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0247c86c8612eab9",
+  "lastOpenFiles": [
+    "Datasheets/Kailh_Choc_v2_PG135301D03.pdf",
+    "Datasheets/Kailh_Choc_CPG135001D02.pdf",
+    "Designs.md",
+    "Matrix_v5.png",
+    "Multitouch.md",
+    "TODO.md",
+    "Hall Effect Key/Hall effect key.md",
+    "Brains.md",
+    "Hall Effect Key/Decoupling_levers.png.0.pdnSave",
+    "Hall Effect Key",
+    "Hall Effect Key/Decoupling_levers.png",
+    "Hall Effect Key/Microswitch_scheme.png",
+    "Keeb v2.md",
+    "Keyboard power consumption.md",
+    "Research",
+    "Matrix_v3.png",
+    "Matrix_v1.png",
+    "Matrix_v5.png.0.pdnSave",
+    "Matrix_v5.pdn.0.pdnSave",
+    "Matrix_v5.pdn",
+    "Matrix_layout_v3.png",
+    "Matrix_layout.png",
+    "Research/MTK_Tutorial.pdf",
+    "Keeb_v2/MTK_Tutorial.pdf.crdownload",
+    "Research/Multitouch_DIY.pdf",
+    "Vault/_ToSort/The speaking book.md",
+    "Vault/_ToSort/patent.md",
+    "Vault/_ToSort/Harmonic motor.md",
+    "Vault/Domains/Domains game design.md",
+    "Vault/Domains/Domains proto.md",
+    "Vault/Domains/Systems/Work and Jobs.md",
+    "Vault/Domains/Domains.md",
+    "Assets/Domains/VPX/Log_book.png",
+    "Vault/Game design/Tau lab pledge.md",
+    "Assets/Aoiti/Example/Tilemap/Sprite-0001.png",
+    "Assets/Aoiti/Example/Tilemap/chief.png",
+    "Vault/Game design/Game Design.md",
+    "Vault/Game design/Player promises.md",
+    "Vault/Game design/Cursed design problem.md",
+    "Vault/Domains/Domains suitable youtubers.md",
+    "Vault/_ToSort/MMO concept.md",
+    "Vault/Domains/Domains Avatar.md",
+    "Vault/Domains/HoMM3-inspired game.md",
+    "Vault/Domains/People.md",
+    "Vault/Domains/Systems/Irregular grid.md",
+    "Vault/Domains/Buildings.md"
+  ]
+}

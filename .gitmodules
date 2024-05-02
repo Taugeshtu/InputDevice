@@ -1,0 +1,6 @@
+[submodule "KeyStat"]
+	path = KeyStat
+	url = git@github.com:Taugeshtu/KeyStat.git
+[submodule "zmk"]
+	path = zmk
+	url = git@github.com:zmkfirmware/zmk.git

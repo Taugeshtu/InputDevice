@@ -1,0 +1,21 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "promptDelete": false,
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Vault/_ToSort",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Docs/_Attachments",
+  "userIgnoreFilters": [
+    "/.*\\.meta$/",
+    "Library/",
+    "Logs/",
+    "obj/",
+    "Packages/",
+    "ProjectSettings/",
+    "UserSettings/"
+  ],
+  "alwaysUpdateLinks": true
+}
