@@ -4,3 +4,6 @@
 [submodule "zmk"]
 	path = zmk
 	url = git@github.com:zmkfirmware/zmk.git
+[submodule "Proto_1/zmk-shield-InControl"]
+	path = Proto_1/zmk-shield-InControl
+	url = git@github.com:Taugeshtu/zmk-shield-InControl.git
