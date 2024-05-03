@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec340e1e0b03339c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Keyboard power consumption.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9f1806d57de36f35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Keeb v2.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "35d76025f733228f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brains.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "57f4e85514ae0db4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multitouch.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "9e42766fa61e4467",
             "type": "leaf",
             "state": {
@@ -68,53 +20,51 @@
             }
           },
           {
-            "id": "5daa4a54281b7503",
+            "id": "b67004f311d3579a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Datasheets/Kailh_Choc_v2_PG135301D03.pdf"
+              }
+            }
+          },
+          {
+            "id": "b8b31866d05a228e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Datasheets/Kailh_Choc_v2_socket.pdf"
+              }
+            }
+          },
+          {
+            "id": "9439372a22105c26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hall Effect Key/Hall effect key.md",
+                "file": "Laser PCBs.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "e6338b7b714ea292",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Matrix_v6.png"
-              }
-            }
-          },
-          {
-            "id": "0247c86c8612eab9",
+            "id": "97daa8070b644bba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Designs.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8d209fcecc5a452e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools.md",
+                "file": "Layout.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools.md",
+                "file": "Laser PCBs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools.md",
+                "file": "Laser PCBs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools.md"
+                "file": "Laser PCBs.md"
               }
             }
           }
@@ -239,32 +189,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d209fcecc5a452e",
+  "active": "9439372a22105c26",
   "lastOpenFiles": [
+    "Layout.md",
     "Tools.md",
+    "Layout problems.md",
     "Matrix_v6.png",
-    "Designs.md",
-    "Hall Effect Key/Hall effect key.md",
-    "Matrix_v5.png",
-    "Matrix_v6.png.0.pdnSave",
-    "Matrix_v6.pdn.0.pdnSave",
-    "Matrix_v6.pdn",
+    "nano_v2_pinout.png",
+    "Laser PCBs.md",
     "Keyboard power consumption.md",
-    "Keeb v2.md",
-    "Brains.md",
-    "Multitouch.md",
+    "Keeb_MT/Haptics.md",
     "TODO.md",
+    "ZMK.md",
+    "Datasheets/Kailh_Choc_v2_socket.pdf",
     "Datasheets/Kailh_Choc_v2_PG135301D03.pdf",
-    "Datasheets/Kailh_Choc_CPG135001D02.pdf",
-    "Hall Effect Key/Decoupling_levers.png.0.pdnSave",
-    "Hall Effect Key",
-    "Hall Effect Key/Decoupling_levers.png",
-    "Hall Effect Key/Microswitch_scheme.png",
-    "Research",
+    "Keeb_MT/Keeb MT.md",
+    "Keeb_1/Keeb v1.md",
+    "Keeb_MT/Haptic_stack_oil.png",
+    "Keeb_MT/Haptic_stack_oil.png.0.pdnSave",
+    "Keeb_MT/Haptic_stack_oil.pdn.0.pdnSave",
+    "Keeb_MT/Haptic_stack_oil.pdn",
+    "Ideas.md",
+    "Keeb_HE/Keeb HE.md",
+    "Keeb_MT",
+    "Matrix_v5.png",
     "Matrix_v3.png",
     "Matrix_v1.png",
-    "Matrix_v5.png.0.pdnSave",
-    "Matrix_v5.pdn.0.pdnSave",
+    "Keeb_HE",
+    "Keeb_1",
+    "Keeb_HE/Brains.md",
+    "Keeb_MT/Multitouch.md",
+    "Keeb_HE/Hall Effect Key/Hall effect key.md",
+    "Matrix_v6.png.0.pdnSave",
+    "Matrix_v6.pdn.0.pdnSave",
+    "Keeb_HE/Hall Effect Key/Decoupling_levers.png",
+    "Keeb_HE/Hall Effect Key/Microswitch_scheme.png",
     "Matrix_layout_v3.png",
     "Matrix_layout.png",
     "Vault/_ToSort/The speaking book.md",
@@ -274,18 +233,8 @@
     "Vault/Domains/Domains proto.md",
     "Vault/Domains/Systems/Work and Jobs.md",
     "Vault/Domains/Domains.md",
-    "Assets/Domains/VPX/Log_book.png",
     "Vault/Game design/Tau lab pledge.md",
-    "Assets/Aoiti/Example/Tilemap/Sprite-0001.png",
     "Vault/Game design/Game Design.md",
-    "Vault/Game design/Player promises.md",
-    "Vault/Game design/Cursed design problem.md",
-    "Vault/Domains/Domains suitable youtubers.md",
-    "Vault/_ToSort/MMO concept.md",
-    "Vault/Domains/Domains Avatar.md",
-    "Vault/Domains/HoMM3-inspired game.md",
-    "Vault/Domains/People.md",
-    "Vault/Domains/Systems/Irregular grid.md",
-    "Vault/Domains/Buildings.md"
+    "Vault/Game design/Player promises.md"
   ]
 }

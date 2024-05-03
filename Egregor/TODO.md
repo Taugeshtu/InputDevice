@@ -1,3 +1,4 @@
-- [ ] Build a simple/sample board on factory switches, no multitouch
-- [ ] Try [[Multitouch]] on Pi Pico
-- [ ] Make a [[Hall effect key]]
+- [ ] Link Proto_1 into Egregor
+![[Keeb v1#TODO]]
+![[Keeb MT#TODO]]
+![[Keeb HE#TODO]]
