@@ -85,7 +85,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Matrix_v5.png"
+                "file": "Matrix_v6.png"
               }
             }
           },
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Designs.md",
+                "file": "Matrix_v6.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Designs.md",
+                "file": "Matrix_v6.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Designs.md"
+                "file": "Matrix_v6.png"
               }
             }
           }
@@ -227,33 +227,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0247c86c8612eab9",
+  "active": "e6338b7b714ea292",
   "lastOpenFiles": [
-    "Datasheets/Kailh_Choc_v2_PG135301D03.pdf",
-    "Datasheets/Kailh_Choc_CPG135001D02.pdf",
     "Designs.md",
+    "Matrix_v6.png",
+    "Hall Effect Key/Hall effect key.md",
     "Matrix_v5.png",
+    "Matrix_v6.png.0.pdnSave",
+    "Matrix_v6.pdn.0.pdnSave",
+    "Matrix_v6.pdn",
+    "Keyboard power consumption.md",
+    "Keeb v2.md",
+    "Brains.md",
     "Multitouch.md",
     "TODO.md",
-    "Hall Effect Key/Hall effect key.md",
-    "Brains.md",
+    "Datasheets/Kailh_Choc_v2_PG135301D03.pdf",
+    "Datasheets/Kailh_Choc_CPG135001D02.pdf",
     "Hall Effect Key/Decoupling_levers.png.0.pdnSave",
     "Hall Effect Key",
     "Hall Effect Key/Decoupling_levers.png",
     "Hall Effect Key/Microswitch_scheme.png",
-    "Keeb v2.md",
-    "Keyboard power consumption.md",
     "Research",
     "Matrix_v3.png",
     "Matrix_v1.png",
     "Matrix_v5.png.0.pdnSave",
     "Matrix_v5.pdn.0.pdnSave",
-    "Matrix_v5.pdn",
     "Matrix_layout_v3.png",
     "Matrix_layout.png",
-    "Research/MTK_Tutorial.pdf",
-    "Keeb_v2/MTK_Tutorial.pdf.crdownload",
-    "Research/Multitouch_DIY.pdf",
     "Vault/_ToSort/The speaking book.md",
     "Vault/_ToSort/patent.md",
     "Vault/_ToSort/Harmonic motor.md",
@@ -264,7 +264,6 @@
     "Assets/Domains/VPX/Log_book.png",
     "Vault/Game design/Tau lab pledge.md",
     "Assets/Aoiti/Example/Tilemap/Sprite-0001.png",
-    "Assets/Aoiti/Example/Tilemap/chief.png",
     "Vault/Game design/Game Design.md",
     "Vault/Game design/Player promises.md",
     "Vault/Game design/Cursed design problem.md",
