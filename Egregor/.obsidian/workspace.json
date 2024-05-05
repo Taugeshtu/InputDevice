@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "9439372a22105c26",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Matrix_v6.png"
-              }
-            }
-          },
-          {
             "id": "97daa8070b644bba",
             "type": "leaf",
             "state": {
@@ -42,65 +32,27 @@
             }
           },
           {
-            "id": "eb781ad8dc67dd9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Keeb_MT/Keeb MT.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "25edd459ad51b6b5",
+            "id": "1c4c68800be6577e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Datasheets/MUX_CD74HC4067.pdf"
+                "file": "Keeb_MT/MTK_Multitouch_DIY.pdf"
               }
             }
           },
           {
-            "id": "325ee74e8db490ba",
+            "id": "17c620f50bd20168",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Keeb_MT/MUX.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "422a0d6b0f286a19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Commercialization.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2ba715f6150d38b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas.md",
-                "mode": "source",
-                "source": true
+                "file": "Keeb_MT/MTK_Tutorial.pdf"
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas.md",
+                "file": "Keeb_MT/MTK_Tutorial.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas.md",
+                "file": "Keeb_MT/MTK_Tutorial.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas.md"
+                "file": "Keeb_MT/MTK_Tutorial.pdf"
               }
             }
           }
@@ -225,26 +177,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ba715f6150d38b1",
+  "active": "17c620f50bd20168",
   "lastOpenFiles": [
-    "Commercialization.md",
+    "Keeb_MT/KC_board1/KC_board1-backups/KC_board1-2024-05-06_005048.zip",
+    "Keeb_MT/KC_board1/KC_board1-backups",
+    "Keeb_MT/KC_board1/fp-info-cache",
+    "Keeb_MT/KC_board1/KC_board1.kicad_prl",
+    "Keeb_MT/KC_board1/~KC_board1.kicad_pcb.lck",
+    "Keeb_MT/KC_board1/KC_board1.kicad_pcb",
+    "Keeb_MT/KC_board1/KC_board1.kicad_sch",
+    "Keeb_MT/KC_board1/KC_board1.kicad_pro",
+    "Keeb_MT/KC_board1",
+    "Keeb_MT/New folder",
+    "Keeb_MT/MTK_Multitouch_DIY.pdf",
     "Keeb_MT/Multitouch.md",
     "Keeb_MT/Keeb MT.md",
-    "Datasheets/MUX_CD74HC4067.pdf",
-    "Keeb_MT/MUX.md",
     "Matrix_v6.png",
-    "Keeb_MT/MTK_Tutorial.pdf",
-    "Keeb_MT/MTK_Multitouch_DIY.pdf",
-    "Keeb_MT/Haptics.md",
-    "Datasheets/MLX90393_HallEffect_3axis.pdf",
-    "Datasheets/stm32f303rc.pdf",
-    "Datasheets/SMD REFERENCE SHEET V3.pdf",
-    "Datasheets/Trackball/SKF HK 0408 roller bearing.pdf",
-    "Datasheets/Trackball/PMW3610.pdf",
-    "Datasheets/Trackball/PMW3360DM‐T2QU.pdf",
-    "Datasheets/Trackball/Ploopy_base.pdf",
-    "TODO.md",
+    "Keeb_MT/MUX.md",
+    "Commercialization.md",
     "Ideas.md",
+    "Improving Pico's ADC.md",
+    "Keeb_MT/Haptics.md",
+    "TODO.md",
     "Microswitches.md",
     "Layout.md",
     "Laser PCBs.md",
@@ -270,8 +224,6 @@
     "Vault/_ToSort/Harmonic motor.md",
     "Vault/Domains/Domains game design.md",
     "Vault/Domains/Domains proto.md",
-    "Vault/Domains/Systems/Work and Jobs.md",
-    "Vault/Domains/Domains.md",
-    "Vault/Game design/Tau lab pledge.md"
+    "Vault/Domains/Systems/Work and Jobs.md"
   ]
 }
