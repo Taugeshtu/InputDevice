@@ -1,3 +1,10 @@
+### Name
+- Mechanicless keyboard
+- SSK - solid-state keyboard
+
+### Videos
+If you ever do videos and have unworking stuff - put it in a "Lessons learned" box. "Box of shame" analog, but with a positive spin
+
 ### Progressive matrix scan
 This is kinda dumb, when I think about it... But the gist is that instead of sequentially lighting up coloumns, we do a binary search for activations
 

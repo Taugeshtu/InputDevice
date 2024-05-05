@@ -13,29 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Keeb_MT/Keeb MT.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "b67004f311d3579a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Datasheets/Kailh_Choc_v2_PG135301D03.pdf"
-              }
-            }
-          },
-          {
-            "id": "b8b31866d05a228e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Datasheets/Kailh_Choc_v2_socket.pdf"
               }
             }
           },
@@ -43,11 +23,9 @@
             "id": "9439372a22105c26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Laser PCBs.md",
-                "mode": "source",
-                "source": true
+                "file": "Matrix_v6.png"
               }
             }
           },
@@ -57,14 +35,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Layout.md",
+                "file": "Keeb_MT/Multitouch.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "eb781ad8dc67dd9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keeb_MT/Keeb MT.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "25edd459ad51b6b5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Datasheets/MUX_CD74HC4067.pdf"
+              }
+            }
+          },
+          {
+            "id": "325ee74e8db490ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keeb_MT/MUX.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "422a0d6b0f286a19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Commercialization.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2ba715f6150d38b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -130,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laser PCBs.md",
+                "file": "Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laser PCBs.md",
+                "file": "Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laser PCBs.md"
+                "file": "Ideas.md"
               }
             }
           }
@@ -189,39 +225,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9439372a22105c26",
+  "active": "2ba715f6150d38b1",
   "lastOpenFiles": [
+    "Commercialization.md",
+    "Keeb_MT/Multitouch.md",
+    "Keeb_MT/Keeb MT.md",
+    "Datasheets/MUX_CD74HC4067.pdf",
+    "Keeb_MT/MUX.md",
+    "Matrix_v6.png",
+    "Keeb_MT/MTK_Tutorial.pdf",
+    "Keeb_MT/MTK_Multitouch_DIY.pdf",
+    "Keeb_MT/Haptics.md",
+    "Datasheets/MLX90393_HallEffect_3axis.pdf",
+    "Datasheets/stm32f303rc.pdf",
+    "Datasheets/SMD REFERENCE SHEET V3.pdf",
+    "Datasheets/Trackball/SKF HK 0408 roller bearing.pdf",
+    "Datasheets/Trackball/PMW3610.pdf",
+    "Datasheets/Trackball/PMW3360DM‐T2QU.pdf",
+    "Datasheets/Trackball/Ploopy_base.pdf",
+    "TODO.md",
+    "Ideas.md",
+    "Microswitches.md",
     "Layout.md",
+    "Laser PCBs.md",
     "Tools.md",
     "Layout problems.md",
-    "Matrix_v6.png",
     "nano_v2_pinout.png",
-    "Laser PCBs.md",
     "Keyboard power consumption.md",
-    "Keeb_MT/Haptics.md",
-    "TODO.md",
     "ZMK.md",
-    "Datasheets/Kailh_Choc_v2_socket.pdf",
-    "Datasheets/Kailh_Choc_v2_PG135301D03.pdf",
-    "Keeb_MT/Keeb MT.md",
     "Keeb_1/Keeb v1.md",
     "Keeb_MT/Haptic_stack_oil.png",
-    "Keeb_MT/Haptic_stack_oil.png.0.pdnSave",
-    "Keeb_MT/Haptic_stack_oil.pdn.0.pdnSave",
-    "Keeb_MT/Haptic_stack_oil.pdn",
-    "Ideas.md",
     "Keeb_HE/Keeb HE.md",
-    "Keeb_MT",
     "Matrix_v5.png",
     "Matrix_v3.png",
     "Matrix_v1.png",
-    "Keeb_HE",
-    "Keeb_1",
     "Keeb_HE/Brains.md",
-    "Keeb_MT/Multitouch.md",
     "Keeb_HE/Hall Effect Key/Hall effect key.md",
-    "Matrix_v6.png.0.pdnSave",
-    "Matrix_v6.pdn.0.pdnSave",
     "Keeb_HE/Hall Effect Key/Decoupling_levers.png",
     "Keeb_HE/Hall Effect Key/Microswitch_scheme.png",
     "Matrix_layout_v3.png",
@@ -233,8 +272,6 @@
     "Vault/Domains/Domains proto.md",
     "Vault/Domains/Systems/Work and Jobs.md",
     "Vault/Domains/Domains.md",
-    "Vault/Game design/Tau lab pledge.md",
-    "Vault/Game design/Game Design.md",
-    "Vault/Game design/Player promises.md"
+    "Vault/Game design/Tau lab pledge.md"
   ]
 }

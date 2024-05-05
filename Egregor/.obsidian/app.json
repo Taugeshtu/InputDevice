@@ -15,7 +15,8 @@
     "obj/",
     "Packages/",
     "ProjectSettings/",
-    "UserSettings/"
+    "UserSettings/",
+    "/*.pdn/"
   ],
   "alwaysUpdateLinks": true
 }
