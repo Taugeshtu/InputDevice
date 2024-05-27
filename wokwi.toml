@@ -1,0 +1,6 @@
+[wokwi]
+version = 1
+firmware = 'build/proto_mt.hex'
+elf = 'build/proto_mt.elf'
+rfc2217ServerPort = 4000
+gdbServerPort=3333

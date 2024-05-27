@@ -4,3 +4,6 @@
 [submodule "Proto_1/zmk-shield-InControl"]
 	path = Proto_1/zmk-shield-InControl
 	url = git@github.com:Taugeshtu/zmk-shield-InControl.git
+[submodule "Trackpad2040"]
+	path = Trackpad2040
+	url = git@github.com:Taugeshtu/Trackpad2040.git

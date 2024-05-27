@@ -1,2 +1,0 @@
-Why mouse switches die? Rewatch the video, there was good bit there
-Is that still gonna be the case if it's periodically scanned, instead of direct-wired? Logically, if the scan is what's happening - then statistically most likely thing is that the contacts make/break WITHOUT current through them, so no spark, so no wear?

@@ -1,10 +1,3 @@
-This looks like a great start:
-https://hci.cs.uni-saarland.de/projects/multi-touch-kit/
-The paper: [[MTK_Multitouch_DIY.pdf]]
-The tutorial: [[MTK_Tutorial.pdf]]
-
-Arduino-based, can take trash electrodes, why the fuck not...
-
 RP2040's PIO: https://www.youtube.com/watch?v=3_fxE2XXgX8
 
 Working principle:
